@@ -1,1 +1,1 @@
-# supershop-management
+# supershop
